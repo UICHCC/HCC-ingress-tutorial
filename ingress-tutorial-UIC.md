@@ -80,5 +80,5 @@ Shadowrocket，我们俗称的小火箭，因为其图标是一个小火箭的LO
 
 目前，此软件以由于各种原因退出国区，请使用美区/港区/日区 的 Apple ID 进行下载
 
-<a href"https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8">App Store</a> 链接
+<a href="https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8">App Store</a> 链接
 
