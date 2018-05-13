@@ -1,4 +1,4 @@
-#Ingress-tutorial-UIC
+# Ingress-tutorial-UIC
 
 <center>Under Construction</center>
 
@@ -7,7 +7,7 @@
 ## 剧情
 
 * 广州蓝军开通了介绍游戏剧情的<a href ="https://telegram.me/ingress_story2016"> Telegram 频道</a> , 可以通过这个频道了解更多关于剧情的信息。
-* 
+* 台湾绿军发布的 [INGRESS 中文劇情時間線](http://www.ingress.game.tw/2016/03/ingress.html)，是目前中文剧情比较全面的文章，推荐阅读。
 
 ## 下载并安装游戏
 
