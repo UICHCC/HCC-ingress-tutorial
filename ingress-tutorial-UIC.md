@@ -193,3 +193,201 @@ Ingress 的乐趣之一在于与敌对的 Faction 进行抗衡。而与其他许
 
 时刻维护 Ingress Agent 的声誉并遵循社会规则。
 
+
+
+### Portal 和 Inventory
+
+ 如果视野内一个 Portal 都没有，寻找 Portal 将成为首要任务。
+
+#### 扩大搜索范围
+
+移动到新的地方然后寻找 Portal。主界面上会有箭头提示临近 Portal 的距离和方向。保持警惕，马上出发。
+
+Portal 往往处于所有人可到达的地方，并且在大型城市里最为密集。Portal 往往有明显的对应实体，例如雕塑，纪念碑，特色建筑，露天壁画，古建筑，以及某些商户。Portal 由人类的才智和创造力而生，向空间散发未知的能量（XM）。
+
+你也可以访问 [Intel Map](http://www.ingress.com/intel) 查看大范围的 Portal 分布。
+
+#### 申请 Portal
+
+如果你不幸处于 Ingress 活动尚未开始的区域，那么请通过申请新的 Portal 来帮助扩展你所在阵营的控制范围。仔细阅读 [Portal 申请要求](https://support.google.com/ingress/answer/3066197)，然后开始[申请 Portal](https://support.google.com/ingress/answer/2808254) 吧！
+
+### Hack：获得道具的方式
+
+通过 Hack 你可以获取道具。你可以 Hack 任何一个 Portal，获得道具的概率取决于 Portal 所属阵营。
+
+#### 如何 Hack
+
+1. 靠近 Portal 直到它处于你的作用范围（Scanner 界面中玩家位置周围的黄色圆）内。
+2. 点击 Portal，在 Portal 详情界面中点击 Hack 按钮以尝试获取道具。
+3. Hack 结果将会出现在 Scanner 界面底部。点击 OPS 按钮可以查看你的道具仓库。
+
+注意：两次 Hack 同一 Portal 需要等待一段冷却时间。
+
+#### Glyph Hack
+
+最近，Scaner 设备中发现了能使玩家看到一系列 Shaper Glyph 的代码。研究证明使用 Glyph 可增加 Hack 获得的道具数量，但是长期使用这一方法的结果仍然是未知的。
+
+##### 快速指南
+
+释放 Glyph 的能力有有两种方式：自动或者手动。长按 Hack 按钮可以手动触发 Glyph Hack。偶尔在 Hack 时会自动出现高收益的 Glyph（无论你是否长按 Hack），如果你成功完成了这个 Glyph 序列，你将有更高的可能性获得奖励道具。
+
+注意事项：
+
+- **放弃 Glyph Hack**：手动触发的 Glyph Hack 可以通过点击 BYPASS 按钮跳过，转为一次普通的 Hack。自动的 Glyph Hack 可以点击 ABORT 跳过，此时你不会得到任何物品。
+- **关于可能性**：Glyph Hack 成功并不能保证你得到更多的奖励道具，它只是增加你获得奖励道具的可能性。
+- **准备接受挑战**：Portal 等级越高，Glyph 的个数也越多。低等级 Portal 也许只需要你画两个 Glyph，而更高等级的 Portal 需要画更多的 Glyph。
+- **技巧和速度**：你的总体表现由准确度和速度两部分组成。
+- **注意 Burnout**：Glyph Hack 和普通的 Hack 受到相同的冷却和过热限制。
+
+要有耐心，慢慢来，享受这个过程。就像任何技能一样，Glyph Hack 需要练习来达到高速和高准确率。
+
+##### 手动触发 Glyph Hack
+
+1. 在 Portal 详情界面长按 Hack 按钮来初始化 Glyph 序列。
+2. 仔细观看，记住 Scanner 收到的 Glyph。
+3. 在倒计时结束之前重新画出你看到的 Glyph，以增加获得奖励道具的可能性。
+
+你获得奖励道具的可能性随着你的速度和准确度增加而增加。
+
+如果获得了奖励道具，它们会显示在 Hack 结果中。
+
+### 占领 Portal
+
+在 Portal 上放置 Resonator 可以占领 Portal。Resonator 调谐并放大 Portal 处自然出现的 XM 能量，使 Portal 的能量增强。
+
+#### 如何占领 Portal
+
+1. 在某个 Portal 处于操作范围内时点击它。
+2. 点击 DEPLOY Resonator 按钮。
+3. 选择你想使用的 Resonator 等级，然后点击 DEPLOY。 注意：你只能选择使用小于等于你当前等级的 Resonator，例如你现在为 L2，你只能使用 L1 和 L2 Resonator。
+
+越高等级的 Resonator（从 L1 到 L8）能使 Portal 的能量越强。更高等级的 Portal 被 Hack 时会产生更高等级的道具（Resonator，XMP 和 Shield 等）。更高等级的 Portal 还能连接到更远的 Portal。
+
+单个玩家在每个 Portal 上只能同时 DEPLOY 有限数量个不同等级的 Resonator。如果需要建起更高等级的 Portal，你需要和其他玩家合作。
+
+| Resonator 等级 | 单个玩家可 DEPLOY 的数量 |
+| -------------- | ------------------------ |
+| Level 1        | 8                        |
+| Level 2        | 4                        |
+| Level 3        | 4                        |
+| Level 4        | 4                        |
+| Level 5        | 2                        |
+| Level 6        | 2                        |
+| Level 7        | 1                        |
+| Level 8        | 1                        |
+
+邀请朋友加入，一起占领高等级 Portal 吧！
+
+### 升级 Portal
+
+更强大的 Resonator 能增强 Portal 的能量（和等级）。你可以用 UPGRADE 动作来升级 Resonator。
+
+1. 在 Resonator 详情页面点击 UPGRADE resonator 按钮
+2. 在八个 Resonator 中选择一个
+3. 选择希望升级到的 Resonator 等级，然后点击 Upgrade 按钮
+
+### 提交新的 Portal
+
+> ~~（1.98.1）版本已经关闭了全球范围内的 portal 申请，因此请等待后续开放申请后再尝试提交新 portal。~~
+>
+> 目前（1.131.0）版本已经重新开启了全球范围内的 portal 申请，但是要求 agent 级别达到 10 级或以上;
+>
+> 另，已经开放了审核 portal的窗口，需要 agent 达到 11 级或以上
+
+您可以直接通过侦测器定位、拍照和提交候选 Portal，从而帮助我们拓展游戏领域。
+
+您提交的 portal 应满足[候选标准](https://support.google.com/ingress/answer/3066197?&ref_topic=2799270)。
+
+#### 提交方法：
+
+[![新的portal](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/build_portals_and_inventory/images/new_portal.png)](https://hz-ingress.gitbooks.io/ingress-tutorial/content/guide/build_portals_and_inventory/images/new_portal.png)
+
+1. 在 Scanner 中长按你想要候选 Portal 在此显示的地方。向右拖动以选择新 Portal，此时系统会启动设备的相机。
+2. `拍摄照片`并进行确认。
+3. 在确认位置下，确保候选 Portal 的`位置正确无误`。如果位置不正确，或者您看到了需要位置的消息，请触摸地图并进行拖动，以将标记对准候选据点的所在地。
+4. 在名称字段中`输入简短标题`（即建筑物、雕像、艺术品等物体的名称）。
+5. 输入有关候选 Portal 的说明 （可选）。您可以使用`说明字段`提供有关候选据点意义和历史方面的其他信息。
+6. 触摸发送即可提交你的候选 Portal 以供审核。
+
+### 发现和使用 Passcode
+
+#### 关于 iOS 用户
+
+兑换 Passcode 功能在 iOS 上暂时不可用，请访问 [Intel Map](http://www.ingress.com/intel) 来兑换 Passcode。
+
+#### 寻找 Passcode
+
+使用 Investigation Board 来了解 Ingress 的最新剧情并寻求对 Niantic Project, NIA, XM, Shapers 以及各阵营不同问题的答案。 可以使用隐藏在这些报告之中的 Passcode 来兑换道具（Resonator，XMP 等），XM 或者 AP。
+
+另外，一些官方活动会向到场者赠送包含 Passcode 的卡片，特定的官方周边也会赠送此类卡片。卡片上的 Passcode 一般能够兑换活动徽章。
+
+#### 兑换 Passcode
+
+#### 从 Scanner（仅 Android 设备）
+
+1. 启动 Ingress 应用程序。
+2. 点击 OPS 菜单。
+3. 在顶部菜单选项中滚动找到 PASSCODE，然后点击 REDEEM PASSCODE。
+4. 在屏幕底部输入你的 passcode，然后点击 Submit 兑换。
+
+注意：Passcode 是大小写无关的。
+
+#### 从 Intel Map
+
+1. 在右上方点击 Passcode。
+2. 输入你的 passcode，然后点击 SUBMIT 兑换。
+
+#### 错误信息
+
+| 错误信息                                                     | 含义                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Invalid Passcode（Scanner 或 Intel Map 上）                  | Passcode 不正确；在 Intel Map 上还可能由于 Passcode 已过期或者超过最大兑换次数。 |
+| Passcode circuitry too hot. Wait for cool down to enter another passcode. | NIA 发现了过于频繁的兑换操作。建议过一段时间再尝试。         |
+| Passcode fully redeemed（Scanner 上）或者 Passcode invalid （Intel Map 上） | Passcode 已过期或者超过最大兑换次数。                        |
+
+*可以关注这个 <a href="https://t.me/passcodes"> telegram channel </a>，里面会不定时放出可用的 passcode*
+
+### Capsule
+
+Capsule 是一种掉率 Rare 的容器，能够盛放多个道具，并扔在地上以在 Agent 之间大量交换物品。Capsule 能无限次存入或取出道具，其本身性质不会改变。
+
+### 快速指南
+
+Capsule 里的道具数量会被计入你 Scanner 的库存总数。你不能捡起会导致你道具总数超过库存上限的 Capsule。此外，Capsule 本身也会占用一个额外的库存数量。 当你将一个 Capsule 扔到地上时，它会在一定时间后消失，因此最好和预期的收货人在相同的时间和地点完成交换，以确保 Capsule 被顺利捡取。 当一个道具在 Capsule 里时，它将不能被使用。如 Capsule 里的 XMP 不能 Fire，Portal Keys 不能用于 Link 和远程 Recharge。 当你 Recycle 一个 Capsule 时，你将获得 Capsule 及其内部所有道具 Recycle 能获得的 XM 的总和。 Capsule 可以被循环使用，你可以反复 Load 和 UnLoad 道具无数次。
+
+如何使用 Capsule：
+
+打开你的 Scanner，点击 OPS > INVENTORY，选择 Capsule。在这里，你可以 LOAD，UNLOAD, DROP， 或者 RECYCLE Capsule。
+
+触摸 LOAD 按钮以从你的库存里存放道具到 Capsule，下方会出现一个你库存里所有道具的列表，其中有加号和减号以选择放入到 Capsule 的道具的数量。
+
+当你使用加号增加放入 Capsule 的道具数量的时候，列表的滚动会被锁定，TRANSFER 和 RESET 按钮会被启用。长按加减号可以快速增减数量，TRANSFER 按钮以确认存放道具到 Capsule，RESET 按钮以取消这次存放且重置道具数量为 0。
+
+当你准备好将 Capsule 及其内道具交给其他 Agent 时，触摸 DROP 以将其丢弃到你当前位置。
+
+在你的 Scanner 上触摸地图上的 Capsule，点击 ACQUIRE 以捡起 Capsule。
+
+要将道具从 Capsule 里取出，从 Capsule 菜单里触摸 UNLOAD，然后按照和放入类似的过程取出道具。 
+
+这个就是俗称：垃圾桶 的普通 capsule
+
+![23-Capsules1.png](https://lh6.googleusercontent.com/aNcyq4Qglug0mA_cKu3Fhv0t7R5WfYW-7Tfs1XiSVk3N6gl1UFK7iNFr62lK0jmucTqWtbDoYuHylsnWAKepBA1_pu8ykuYHl7D-PQm1wm5N36i_TN9MWXkCT1iiJqwzUUtNDB85)
+
+~~这个是 ingress 内的通用货币：红桶（MUFG 储存胶囊）~~
+
+![MUFG.png](https://lh4.googleusercontent.com/D9uhoaPeJUychA1EJDiGyHEz31KERQDwSULaYYQA1yo7sIZxM3xvm99xyN3pd9Nqr5cVbJrAFoxiXVgLqyPPjferfpBtq8Lq9193v56FuN8G9SkfT4762JTmuye5HXd0LwR2leEG)
+
+**红桶是 Ingress 与日本三菱金融集团商业合作而催生的道具，它的最特别之处，是可以像“获利息”一样奖励道具。**
+
+每一个红桶也可以容纳 100 件道具，可是别兴致冲冲地喂饱它就算了。它可是个只升不跌的投资组合！只要放道具进去，过些时候红桶就会随机复製这些道具。只要红桶没满，你所投放的“本金”越多，“利息”自然就越丰厚。红桶的复制利息率暂时没有人说得准，总之除了桶外，不管哪种道具都可复制。 经实验证明(笑)，放 95 件道具作本金，平均每天有一件回报。可是当红桶已被道具填满(=100)，或你的道具栏已满(>=2000)，可就没有利息了。
+
+> ##### 红桶小贴士
+>
+> 把所有非常稀有（VR）的道具全都放进红桶裡。若要用到 Shield，Hack Mod，Ada，Jarvis，到时才拿出来就好，未用到时当然是放在桶里收利息！记得定期检查红桶，并提走利息，慎防爆仓。多存几个红桶，方便把投资分门别类，道具周转就更得心应手了。如果你只有一个红桶，请尽量装进 VR 的道具，并用其他道具补充至 95 个，这样红桶的产出将会达到最大化，但是这样无法控制出产的道具种类。如果你有多个红桶，请每个红桶里面都放进一样的道具，不同红桶之间的道具可以不一样，并尽量装至 95 个，以保证每个红桶都能生产你所需要的物品。
+>
+> 摘自：<a href="https://lesson.cantonres.com">广蓝《蓝精灵教程》</a>
+
+**当然，它现在已经被量子桶（QuantumCapsule）替代了（我没有找到量子桶的图。。。量子桶的效果和红桶基本相同，再次不再赘述。**
+
+
+
