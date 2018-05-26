@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+
+font name: Changa-SemiBold
+font link: https://www.fontsquirrel.com/fonts/changa
+font author: Eduardo Tunni
+font author site: http://www.tipo.net.ar/
+
+icon designer: Margot Nadot
+icon designer link: /Marc Nadue
+        
+{"bg":"#ffffff","icon-gradient-0":"#006678","icon-gradient-1":"#4FA8FF","font":"#000000"}
+      
