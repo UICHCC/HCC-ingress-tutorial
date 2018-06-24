@@ -377,6 +377,8 @@ Capsule 里的道具数量会被计入你 Scanner 的库存总数。你不能捡
 
 ![MUFG.png](https://lh4.googleusercontent.com/D9uhoaPeJUychA1EJDiGyHEz31KERQDwSULaYYQA1yo7sIZxM3xvm99xyN3pd9Nqr5cVbJrAFoxiXVgLqyPPjferfpBtq8Lq9193v56FuN8G9SkfT4762JTmuye5HXd0LwR2leEG)
 
+
+
 **红桶是 Ingress 与日本三菱金融集团商业合作而催生的道具，它的最特别之处，是可以像“获利息”一样奖励道具。**
 
 每一个红桶也可以容纳 100 件道具，可是别兴致冲冲地喂饱它就算了。它可是个只升不跌的投资组合！只要放道具进去，过些时候红桶就会随机复製这些道具。只要红桶没满，你所投放的“本金”越多，“利息”自然就越丰厚。红桶的复制利息率暂时没有人说得准，总之除了桶外，不管哪种道具都可复制。 经实验证明(笑)，放 95 件道具作本金，平均每天有一件回报。可是当红桶已被道具填满(=100)，或你的道具栏已满(>=2000)，可就没有利息了。
@@ -391,3 +393,27 @@ Capsule 里的道具数量会被计入你 Scanner 的库存总数。你不能捡
 
 
 
+### 進攻與防禦
+
+#### 為 portal 部署護盾
+
+護盾可用來增強 portal 的防禦以抵抗地方陣營的襲擊。護短按照稀有度分為 `COMMON`, `RARE`, `VERY RARE`, `VARYRARE AXA` 。 護盾越稀有，它能夠減緩傷害的能力越強大。防禦度（Mitigation）和黏著度（Stickness）為護盾的兩個量化屬性。如果 portal 上不輸了多個護盾，則總防禦度為各護盾防禦度綜合。
+
+各類護盾的防禦度和黏著度如下表所示：
+
+| 護盾種類  | 防禦度 | 黏著度 | 所需 XM |
+| --------- | ------ | ------ | ------- |
+| Common    | 30     | 0      | 250     |
+| Rare      | 40     | 15     | 500     |
+| Vary Rare | 60     | 45     | 1000    |
+| AXA       | 70     | 80     | 1000    |
+
+![9-DefenseMods1.png](https://lh4.googleusercontent.com/pqvgwJZllkwtoLmxQtKLHC8GW696yFXplWDRxVgSWnpXLe1_EJ8NnR4c0y-G5eUwxE43XKvkqnl23tHBsvjge7HSn8NG4z7dnQlXkOr4JCDGVH9Ib-wwcqBwiUs4lD3FugYio2En)
+
+#### 反击增益器（Force Amp）
+
+反擊增益器的功能是加強 portal 受到攻擊時的反擊能力。這是一種只有「Rare」的道具。一般而言，單一反擊增益器已經足夠了，多個並沒有太多的疊加傷害。
+
+多個反擊增益器效力遞減如下，部署一個等於兩倍傷害，第二個再增加 0.25 倍的傷害，第三個再疊加 0.125 倍傷害，第四個再疊加 0.125 倍傷害。
+
+![9-DefenseMods2.png](https://lh4.googleusercontent.com/HR_Pgopepz87Kmlc6pQmdQuhinEQEIPUNQdtnTNMeEWUf-5lJ8bRfrN5Otzf-4XowUkp8nuCVKKehF_cFEOAcD6HE_-Vws61M1_ETj1uE7NVmkevRG4N43IOGPzyvR-mBV4M48K9)
